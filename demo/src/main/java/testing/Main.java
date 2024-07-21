@@ -1,7 +1,5 @@
 package testing;
 
-import java.util.Scanner;
-
 public class Main {
 
     public static String checkQuadrant(int x, int y) {
